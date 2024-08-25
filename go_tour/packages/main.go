@@ -6,4 +6,12 @@ func main() {
 	Exported_names()
 	Functions()
 	Multiple_results()
+	Named_results()
+	Variables()
+	Variables_with_initializers()
+	Short_variable_declatations()
+	Basic_types()
+	Zero()
+	Type_conversions()
+	Type_inference()
 }
