@@ -14,4 +14,6 @@ func main() {
 	Zero()
 	Type_conversions()
 	Type_inference()
+	Constants()
+	Numeric_constants()
 }
